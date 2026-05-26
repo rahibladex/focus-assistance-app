@@ -17,7 +17,7 @@ A professional-grade, containerized "Deep Work" tracker built with **Python**, *
 * **Hosting:** Render
 
 ## 🚀 How to Run Locally
-1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/focus-assistant-app.git`
+1. Clone the repo: `git clone https://github.com/rahibladex/focus-assistant-app.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Launch: `python main.py`
 
